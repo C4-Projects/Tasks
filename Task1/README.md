@@ -18,6 +18,13 @@
 ## General Instructions
 - To change your password:
   - If logged in:
+  - Scroll down on your profile page to see the settings section, here you can click on the pencil to change your password.
   ![](../Resources/Task1/pass1.png)
   - If not:
   ![](../Resources/Task1/pass2.png)
+  
+  
+  ## Get in Touch
+  If you have any doubts please get in touch on:
+  
+  info@c4projects.tech
